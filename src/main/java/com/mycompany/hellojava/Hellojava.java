@@ -16,5 +16,6 @@ public class Hellojava {
         System.out.println("teste de git e github no terminal");
         System.out.println("teste no netbeans");
         System.out.println("mais um teste");
+        System.out.println("teste final");
     }
 }
